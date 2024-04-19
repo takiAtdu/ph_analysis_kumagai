@@ -6,3 +6,5 @@ output
 ph_atomic_sio2
 ph_sio2
 retrieve_cifs
+.idea
+__pycache__
